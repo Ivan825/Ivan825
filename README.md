@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-IIIT Bangalore'28 
-Imtech CSE
 
 **I love working with**
 
