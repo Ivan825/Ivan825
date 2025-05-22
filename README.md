@@ -15,7 +15,7 @@
 </div>
 
 ### 🔭 I’m working on
-
+- Predictive Auto-Scaling of Dockerized ML Applications for Domains like Smart Manufacturing, Finance, Healthcare. (Research Paper and implementation)
 - Projects to learn various tech stacks.
 
 ### 🌱 I’m learning
